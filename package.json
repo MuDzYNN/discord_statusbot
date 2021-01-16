@@ -1,0 +1,17 @@
+{
+  "name": "discord_statusbot",
+  "version": "2.0.0",
+  "description": "Simple bot for tracking status of FiveM server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MuDzYn.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1",
+    "nodemon": "^2.0.7"
+  }
+}
